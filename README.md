@@ -50,3 +50,5 @@ include("main.jl")
 
 - You can replace `data/sample.tif` with your own GeoTIFF containing Red and NIR bands.
 - The classification threshold and visualization can be customized in `main.jl`.
+
+© mdkhademali
